@@ -1,7 +1,6 @@
-
-Vue.js / Vuex Starter
+Vuejs Argon Design System - coded by AppSeed App Generator
 ====
-**UI Kit:** Argon Design System by Creative-Tim.com - [LIVE Demo](https://vuejs.appseed.us) 
+Vue.js App enhanced with JWT Authentication. Can be used with [Express](https://github.com/app-generator/express-starter), [Flask](https://github.com/app-generator/flask-starter) or [Laravel](https://github.com/app-generator/laravel-starter). Read more on [AppSeed](https://appseed.us/apps/argon-design-system). 
 
 ![Vue Argon Design](https://github.com/app-generator/vuejs-argon-design-system/blob/master/screenshots/vue-argon-design-system.png)
 
