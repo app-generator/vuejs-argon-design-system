@@ -4,7 +4,7 @@ Vue.js App enhanced with JWT Authentication. Can be used with [Express](https://
 
 <br />
 
-![Vue Argon Design - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/argon-design-system-intro.gif?raw=true)
+![Vue Argon Design - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/argon-design-system-intro.gif)
 
 <br />
 
